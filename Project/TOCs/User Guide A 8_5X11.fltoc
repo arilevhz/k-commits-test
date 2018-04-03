@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
@@ -48,8 +48,7 @@
     BreakType="chapter"
     PageType="firstright">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Getting Started/Getting Started.htm" />
+      Title="[%=System.LinkedTitle%]" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/A_Getting Started/Basic Steps.htm" />
